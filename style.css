@@ -1,0 +1,59 @@
+body {
+  color: darkred;
+  background: darkred;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+  margin-bottom: 100px;
+  overflow: none;
+}
+
+header {
+  border-bottom: solid 2px white;
+  padding: 20px;
+  font-size: 32px;
+  color: white;
+}
+
+section {
+  background: black;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+}
+
+.chamada {
+  background: darkred ;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+
+}
+img{
+  
+  height: 30%;
+}
+
+.categoria {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+}
+.anime{
+  display: flex;
+  overflow: auto;
+  gap:2%;
+}
